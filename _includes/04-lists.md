@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+* Video games
+  * Stardew Valley
+  * Subnautica
+  * Dragonquest Builders
+* Food
+  * Tacos
+  * Bread
+  * Singapore fried rice
